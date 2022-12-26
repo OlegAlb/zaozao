@@ -1,0 +1,5 @@
+export enum Tabs {
+  TAB_CHATS = 'TAB_CHATS',
+  TAB_CONTACTS = 'TAB_CONTACTS',
+  TAB_GROUPS = 'TAB_GROUPS',
+}

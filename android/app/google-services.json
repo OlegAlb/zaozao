@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11155697463",
+    "project_id": "zaozao-d0677",
+    "storage_bucket": "zaozao-d0677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11155697463:android:fbafad3a2db3176099f4b2",
+        "android_client_info": {
+          "package_name": "com.zaozao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11155697463-t9bamc73tilk947r0brcup5lajn8ne91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaozao",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "11155697463-uap6mh6j8cs0vvj0ejpcpv8iihtt1uae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTSaC5cum2NM_YI8LtXzi2fKURADmJgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11155697463-uap6mh6j8cs0vvj0ejpcpv8iihtt1uae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
